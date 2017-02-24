@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>知乎</title>
+</head>
+<body>
+<h1>知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+<a href="http://localhost:63342/HTML/%E7%9F%A5%E4%B9%8E.html?%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%88%96%E9%82%AE%E7%AE%B1=&%E5%AF%86%E7%A0%81=&%E9%AA%8C%E8%AF%81%E7%A0%81=&%E7%99%BB%E5%BD%95=%E7%99%BB%E5%BD%95&%E5%A7%93%E5%90%8D=&%E6%89%8B%E6%9C%BA%E5%8F%B7%EF%BC%88%E4%BB%85%E6%94%AF%E6%8C%81%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%EF%BC%89=&%E5%AF%86%E7%A0%81%EF%BC%88%E4%B8%8D%E5%B0%91%E4%BA%8E6%E4%BD%8D%EF%BC%89=">注册</a>
+<a href="http://localhost:63342/HTML/facebook.html?First+name=&Last+name=&Mobile+number+or+email=&Re-enter+mobile+number+or+email=&password=&Month=Month&Day=Day&Year=Year">登录</a>
+<form action="">
+    <input type="text" name="手机号或邮箱" placeholder="手机号或邮箱">
+    <br>
+    <input type="password" name="密码" placeholder="密码">
+    <br>
+    <input type="text" name="验证码" placeholder="验证码">
+    <br>
+    <img src="" alt="验证码"><br>
+    <input type="submit" name="登录" value="登录"><br>
+    <input type="submit" name="手机验证码登录" value="手机验证登录"><a href="">无法登录？</a><br>
+    <b>社交账号登录</b><br>
+    <a href="https://www.zhihu.com/app/"><input type="button" name="下载知乎App" value="下载知乎App"></a><br>
+    <input type="text" name="姓名" placeholder="姓名"><br>
+    <input type="text" name="手机号（仅支持中国大陆）" placeholder="手机号（仅支持中国大陆）"><br>
+    <input type="password" name="密码（不少于6位）" placeholder="密码（不少于6位）"><br>
+    <b>请点击图中所有倒立的文字</b><br>
+    <img src="" alt="验证码"><br>
+    <button>注册知乎</button>
+    <b>点击「注册」按钮，即代表你同意<a href="https://www.zhihu.com/terms">《知乎协议》</a></b><br>
+    <a href="https://www.zhihu.com/app/"><input type="button" name="下载知乎App" value="下载知乎App"></a><br>
+    <table>
+        <tr>
+            <th width="600">
+                <b>
+                    &copy;2017知乎 <a href="https://www.zhihu.com/roundtable">知乎圆桌</a> • <a
+                        href="https://www.zhihu.com/explore">发现</a>• <a href="https://www.zhihu.com/app/">移动应用</a>
+                    • <a href="https://www.zhihu.com/org/signin">使用机构账号登录</a>•
+                    <a href="https://www.zhihu.com/contact">联系我们</a> • <a href="https://www.zhihu.com/careers">来知呼工作</a>
+                    • <a
+                        href="http://www.miibeian.gov.cn/state/outPortal/loginPortal.action;jsessionid=pRbgYtQJGwWqLys97y6yPTQBZTpnhVpl6Nh8NgsM84Q8vM8J44rH!-1572902670">京
+                    ICP 证110745号</a> • 京公网安备 11010802010035 号
+                    • <a href="http://zhstatic.zhihu.com/assets/zhihu/publish-license.jpg">出版物经营许可证</a>
+                </b>
+            </th>
+        </tr>
+    </table>
+
+
+</form>
+
+
+</body>
+</html>
